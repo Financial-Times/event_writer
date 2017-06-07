@@ -1,0 +1,6 @@
+*.iml
+.idea
+event_writer*
+vendor/*/
+.project
+.vscode
